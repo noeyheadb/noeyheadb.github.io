@@ -5,13 +5,14 @@
     <title>DaeHyeon Bae</title>
     <link href="css/design.css" rel="stylesheet"/>
     <script src="js/home.js"></script>
+    <script src="js/moveTo.js"></script>
 </head>
 <body>
     <div id="nav">
-        <a class="nav_item" href="#main"><img id="home_img" src="img/up.png"/></a> <br>
-        <a class="nav_item" href="#about">About</a><br>
-        <a class="nav_item" href="#skills">Skills</a> <br>
-        <a class="nav_item" href="#project">Projects</a> <br>
+        <a class="nav_item" onclick="go('main')"><img id="home_img" src="img/up.png"/></a> <br>
+        <a class="nav_item" onclick="go('about')">About</a><br>
+        <a class="nav_item" onclick="go('skills')">Skills</a> <br>
+        <a class="nav_item" onclick="go('project')">Projects</a> <br>
         <img class="nav_item" onclick="github_click()" id="github_img_nav" src="img/github-logo.png"/>
     </div>
 
@@ -25,9 +26,9 @@
             </div>
             <hr id="hr"/>
             <div id="menu_box">
-                <a class="menu_item" href="#about">About</a><br>
-                <a class="menu_item" href="#skills">Skills</a> <br>
-                <a class="menu_item" href="#project">Projects</a> <br>
+                <a class="menu_item" onclick="go('about')">About</a><br>
+                <a class="menu_item" onclick="go('skills')">Skills</a> <br>
+                <a class="menu_item" onclick="go('project')">Projects</a> <br>
                 <span class="menu_item" id="github_text" onclick="github_click()"><img id="github_img" src="img/github-logo.png"/>GitHub</span>
             </div>
         </div>
