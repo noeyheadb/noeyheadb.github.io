@@ -10,46 +10,70 @@
 
 /*------------------------------------------------------------------------------------*/
 
-body {
+html, body {
     cursor: default;
-    background-color: #ececea;
-    font-family: jfs-light;
-}
-
-#main_box {
-    width: 70%;
-    margin-left: 10%;
-    margin-top: 10%;
-
-}
-
-#menu_box {
-    margin-top: 30px;
+    /*background-color: #ececea;*/
     font-family: qs-light;
+    margin: 0;
+    height: 100%;
 }
 
-.mov {
-    position: relative;
-    left: 50px;
-    top: 30px;
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:link {
+    color: black;
+
 }
 
 /*------------------------------------------------------------------------------------*/
 
+.container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.container:nth-child(2n+1) {
+    background-color: #ececea;
+}
+
+.sub_container {
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 20%;
+}
+
+
+/*------------------------------------------------------------------------------------*/
+
 #name {
+    font-family: jfs-light;
     font-size: 30px;
 }
 
 #nickname {
+    font-family: jfs-light;
     font-size: 20px;
     color: darkgrey;
 }
 
 #bio {
+    font-family: jfs-light;
     font-size: 25px;
 }
 
 /*------------------------------------------------------------------------------------*/
+
+#menu_box {
+    margin-top: 30px;
+}
 
 .menu_item {
     font-size: 40px;
@@ -62,5 +86,18 @@ body {
     cursor: pointer;
 }
 
+#github_text {
+    border-bottom: 1px solid;
+}
+
 /*------------------------------------------------------------------------------------*/
 
+.headline {
+    font-size: 40px;
+}
+
+.content {
+    margin-top: 30px;
+    font-size: 25px;
+
+}

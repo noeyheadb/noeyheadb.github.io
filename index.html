@@ -7,19 +7,47 @@
     <script src="js/home.js"></script>
 </head>
 <body>
-    <div id="main_box">
-        <div class="mov" id="my_info">
-            <span id="name">DaeHyeon Bae</span>
-            <span id="nickname">(noeyheadb)</span>
-            <br>
-            <span id="bio">Information security expert</span>
+    <div class="container" id="main">
+
+        <div class="sub_container" id="intro_box">
+            <div id="my_info">
+                <span id="name">DaeHyeon Bae</span>
+                <span id="nickname">(noeyheadb)</span>
+                <br>
+                <span id="bio">Student majoring in information security</span>
+            </div>
+            <hr id="hr"/>
+            <div id="menu_box">
+                <a class="menu_item" href="#skills">Skills</a> <br>
+                <a class="menu_item" href="#stack">Stack</a> <br>
+                <a class="menu_item" href="#contact">Contact</a><br>
+                <span class="menu_item" id="github_text" onclick="github_click()">GitHub</span>
+            </div>
         </div>
-        <hr class="mov" id="hr"/>
-        <div class="mov" id="menu_box">
-            <div class="menu_item">Who</div> <br>
-            <div class="menu_item">Stack</div> <br>
-            <div class="menu_item" onclick="github_click()">GitHub</div> <br>
-            <div class="menu_item">Contact</div>
+
+    </div>
+
+    <div class="container" id="skills">
+        <div class="sub_container" id="skills_box">
+            <span class="headline">Skills</span>
+            <hr/>
+            <div class="content">skills test</div>
+        </div>
+    </div>
+
+    <div class="container" id="stack">
+        <div class="sub_container" id="stack_box">
+            <span class="headline">Stack</span>
+            <hr/>
+            <div class="content">stack test</div>
+        </div>
+    </div>
+
+    <div class="container" id="contact">
+        <div class="sub_container" id="contact_box">
+            <span class="headline">Contact</span>
+            <hr/>
+            <div class="content">noeyhyeadb@gmail.com</div>
         </div>
     </div>
 </body>
