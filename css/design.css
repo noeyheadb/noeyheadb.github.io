@@ -133,3 +133,16 @@ a:link {
     font-size: 25px;
 
 }
+/*------------------------------------------------------------------------------------*/
+.skill_img {
+    width: 70px;
+    height: 70px;
+}
+
+.skill_desc {
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    top: -25px;
+}
+
