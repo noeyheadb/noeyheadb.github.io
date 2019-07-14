@@ -30,6 +30,26 @@ a:link {
     color: black;
 
 }
+/*------------------------------------------------------------------------------------*/
+#nav {
+    font-family: jfs-light;
+    position: fixed;
+    left: 90%;
+    top: 80%;
+    text-align: right;
+}
+
+.nav_item {
+    font-size: 20px;
+    margin-bottom: 15px;
+    display: inline-block;
+    border-bottom: 1px solid;
+}
+
+.nav_item:hover {
+    color: lightslategrey;
+    cursor: pointer;
+}
 
 /*------------------------------------------------------------------------------------*/
 
@@ -39,7 +59,7 @@ a:link {
     margin: 0;
 }
 
-.container:nth-child(2n+1) {
+.container:nth-child(2n) {
     background-color: #ececea;
 }
 
