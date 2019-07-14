@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'qs-light';
+    src: url("font/Quicksand-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'jfs-light';
+    src: url("font/JosefinSans-Light.ttf") format("opentype");
+}
+
+/*------------------------------------------------------------------------------------*/
+
+body {
+    cursor: default;
+    background-color: #ececea;
+    font-family: jfs-light;
+}
+
+#main_box {
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+
+#menu_box {
+    margin-top: 30px;
+    font-family: qs-light;
+}
+
+.mov {
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+/*------------------------------------------------------------------------------------*/
+
+#name {
+    font-size: 30px;
+}
+
+#nickname {
+    font-size: 20px;
+    color: darkgrey;
+}
+
+#bio {
+    font-size: 25px;
+}
+
+/*------------------------------------------------------------------------------------*/
+
+.menu_item {
+    font-size: 40px;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+.menu_item:hover {
+    color: lightslategrey;
+    cursor: pointer;
+}
+
+/*------------------------------------------------------------------------------------*/
+
