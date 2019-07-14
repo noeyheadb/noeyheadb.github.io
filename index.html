@@ -8,14 +8,14 @@
 </head>
 <body>
     <div id="nav">
-        <a class="nav_item" href="#main">Home</a> <br>
+        <a class="nav_item" href="#main"><img id="home_img" src="img/up.png"/></a> <br>
+        <a class="nav_item" href="#about">About</a><br>
         <a class="nav_item" href="#skills">Skills</a> <br>
-        <a class="nav_item" href="#stack">Stack</a> <br>
-        <a class="nav_item" href="#contact">Contact</a><br>
+        <a class="nav_item" href="#project">Projects</a> <br>
+        <img class="nav_item" onclick="github_click()" id="github_img_nav" src="img/github-logo.png"/>
     </div>
 
     <div class="container" id="main">
-
         <div class="sub_container" id="intro_box">
             <div id="my_info">
                 <span id="name">DaeHyeon Bae</span>
@@ -25,13 +25,20 @@
             </div>
             <hr id="hr"/>
             <div id="menu_box">
+                <a class="menu_item" href="#about">About</a><br>
                 <a class="menu_item" href="#skills">Skills</a> <br>
-                <a class="menu_item" href="#stack">Stack</a> <br>
-                <a class="menu_item" href="#contact">Contact</a><br>
-                <span class="menu_item" id="github_text" onclick="github_click()">GitHub</span>
+                <a class="menu_item" href="#project">Projects</a> <br>
+                <span class="menu_item" id="github_text" onclick="github_click()"><img id="github_img" src="img/github-logo.png"/>GitHub</span>
             </div>
         </div>
+    </div>
 
+    <div class="container" id="about">
+        <div class="sub_container" id="contact_box">
+            <span class="headline">About</span>
+            <hr/>
+            <div class="content">noeyhyeadb@gmail.com</div>
+        </div>
     </div>
 
     <div class="container" id="skills">
@@ -42,20 +49,13 @@
         </div>
     </div>
 
-    <div class="container" id="stack">
-        <div class="sub_container" id="stack_box">
-            <span class="headline">Stack</span>
+    <div class="container" id="project">
+        <div class="sub_container" id="project_box">
+            <span class="headline">Projects</span>
             <hr/>
-            <div class="content">stack test</div>
+            <div class="content">project test</div>
         </div>
     </div>
 
-    <div class="container" id="contact">
-        <div class="sub_container" id="contact_box">
-            <span class="headline">Contact</span>
-            <hr/>
-            <div class="content">noeyhyeadb@gmail.com</div>
-        </div>
-    </div>
 </body>
 </html>

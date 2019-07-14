@@ -35,8 +35,8 @@ a:link {
     font-family: jfs-light;
     position: fixed;
     left: 90%;
-    top: 80%;
-    text-align: right;
+    top: 70%;
+    text-align: center;
 }
 
 .nav_item {
@@ -51,6 +51,15 @@ a:link {
     cursor: pointer;
 }
 
+#home_img {
+    width: 20px;
+    height: 20px;
+}
+
+#github_img_nav {
+    width: 20px;
+    height: 20px;
+}
 /*------------------------------------------------------------------------------------*/
 
 .container {
@@ -110,6 +119,9 @@ a:link {
     border-bottom: 1px solid;
 }
 
+#github_img {
+    width: 30px;
+}
 /*------------------------------------------------------------------------------------*/
 
 .headline {
