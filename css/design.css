@@ -34,8 +34,8 @@ a:link {
 #nav {
     font-family: jfs-light;
     position: fixed;
-    left: 90%;
-    top: 70%;
+    left: 3%;
+    top: 30%;
     text-align: center;
 }
 
@@ -75,7 +75,7 @@ a:link {
 .sub_container {
     width: 80%;
     position: relative;
-    left: 10%;
+    left: 13%;
     top: 20%;
 }
 
