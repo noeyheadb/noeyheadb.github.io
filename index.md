@@ -30,7 +30,7 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 # Activity
 
-### Conference
+## Conference
 
 ##### [KIISC](https://kiisc.or.kr/) Conference on Information Security and Cryptography (CISC)
 
@@ -45,7 +45,7 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 ###### *_**Paper**_ : Best paper award
 
-### Paper
+## Paper
 
 ##### Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
 
@@ -53,19 +53,19 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 |:--------|:----------------------------------------------------------------------------|:------|
 | 2019.10 | [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
 | 2020.02 | [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN | lead author  |
+| 2020.08 | Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN | lead author  |
 
 
 ## Awards
 
-| Date    | Contest Name                          | Detail        |
-|:--------|:--------------------------------------|:--------------|
-| 2018.12 | Hoseo University Programming Contest  | Second place  |
-| 2018.12 | KIISC CISC-W '18                      | Best Paper    |
-| 2019.10 | KIISC-CC CISC 2019                    | Best Paper    |
-| 2019.10 | 2019 Side-channel Analysis Contest    | First place (undergraduate track) |
-| 2019.12 | Hoseo University Programming Contest  | First place   |
-| 2020.07 | KIISC CISC-S '20                      | Best Paper    |
+| Date    | Contest Name                          | Award         | Institution|
+|:--------|:--------------------------------------|:--------------|:-----------|
+| 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ.|
+| 2018.12 | KIISC CISC-W '18                      | Best Paper    | KIISC      |
+| 2019.10 | KIISC-CC CISC 2019                    | Best Paper    | KIISC      |
+| 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr)|
+| 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
+| 2020.07 | KIISC CISC-S '20                      | Best Paper    | KIISC      |
 
 ## Skills
 
@@ -149,12 +149,3 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
