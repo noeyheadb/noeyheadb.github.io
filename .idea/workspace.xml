@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="961cf7b1-155e-42ca-8507-6f13a08e67ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/SUPPORT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/another-page.md" beforeDir="false" afterPath="$PROJECT_DIR$/kor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,8 @@
       <workItem from="1575219787667" duration="508000" />
       <workItem from="1596796444863" duration="2718000" />
       <workItem from="1596867452846" duration="715000" />
-      <workItem from="1596868192052" duration="591000" />
+      <workItem from="1596868192052" duration="4506000" />
+      <workItem from="1596872754577" duration="25000" />
     </task>
     <servers />
   </component>
@@ -110,5 +107,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="700" y="226" key="RollbackChangesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1596797754121" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1596872654073">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1596872654073" />
   </component>
 </project>

@@ -2,25 +2,67 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[View in korean](./kor.html).
 
-[Link to another page](./another-page.html).
+간단 설명  
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Academic background
 
-# Header 1
+### Bachelor's degree
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> I am currently taking the last semester.  
+* (Scheduled) Bachelor in Science In Information Security Engineering  
+* Hoseo University (2017.03 ~ 2021.02)  
+  
+GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
-## Header 2
+### Master's degree
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> I am currently taking B.S & M.S combined course.
+* B.S & M.S combined course
+* Hoseo University (2020.03 ~ 2022.02)
 
-### Header 3
+---
+
+## Academic activity
+
+### Conference
+
+#### [KIISC](https://kiisc.or.kr/) Conference on Information Security and Cryptography (CISC)
+| Year         | head two                                                                    | Remark |
+|:-------------|:----------------------------------------------------------------------------|:------|
+| 2018.12      | 부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용 | second author |
+| 2019.06      | 전력 분석 공격을 위한 AutoEncoder 기반의 효율적인 POI 분석 기법 연구             | lead author   |
+| 2019.06      | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석                              | second author |
+| 2019.10      | 중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법                | lead author  |
+| 2019.12      | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축                           | lead author  |
+| 2020.06      | 마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현                       | lead author  |
+
+### Paper
+#### (KCI) Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
+
+| Year         | head two                                                                    | Remark |
+|:-------------|:----------------------------------------------------------------------------|:------|
+| 2019.10      | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석                              | second author |
+| 2020.02      | 중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법                | lead author  |
+| 2020.08      | 마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현                       | lead author  |
+
+
+---
+## Awards
+
+| Year    | Name                                                                |
+|:--------|:--------------------------------------------------------------------|
+| 2018.12 | 호서대학교 프로그래밍 경진대회 (최우수상)                                |
+| 2018.12 | 한국정보보호학회 2018 동계학술대회 (최우수논문상-한국정보보호학회장상)      |
+| 2019.10 | 한국정보보호학회 2019 충청지부 학술발표대회 (장려상)                      |
+| 2019.10 | 2019년도 부채널 분석 경진대회 (한국전자통신연구원장상)                    |
+| 2019.12 | 호서대학교 프로그래밍 경진대회 (대상)                                    |
+| 2020.07 | 한국정보보호학회 2020 하계학술대회 (최우수논문상-한국정보보호학회장상)      |
+
+## Skills
 
 ```js
 // Javascript code with syntax highlighting.
@@ -91,6 +133,9 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 ### Small image
 
