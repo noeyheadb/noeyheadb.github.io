@@ -36,13 +36,14 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2018.12 | Application of Reduced Masking Method to Implement Lightweight Block Cipher CHAM Against Side-Channel Analysis Attack | second author |
+| 2018.12 | *_**Application of Reduced Masking Method to Implement Lightweight Block Cipher CHAM Against Side-Channel Analysis Attack**_ | second author |
 | 2019.06 | Study of efficient POI analysis technique based on AutoEncoder for power analysis attack | lead author   |
 | 2019.06 | Implementation and Analysis of Power Analysis Attack based on MLP Deep-Learning Method | second author |
-| 2019.10 | Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure | lead author  |
+| 2019.10 | *_**Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure**_ | lead author  |
 | 2019.12 | Power Trace Dataset Construction for Side Channel Analysis on Block Cipher | lead author  |
-| 2020.06 | Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller | lead author  |
+| 2020.06 | *_**Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller**_ | lead author  |
 
+###### *_**Paper**_ : Best paper award
 
 ### Paper
 
@@ -57,8 +58,8 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 ## Awards
 
-| Year    | Name                                  |                  |
-|:--------|:--------------------------------------|:-----------------|
+| Date    | Contest Name                          | Detail        |
+|:--------|:--------------------------------------|:--------------|
 | 2018.12 | Hoseo University Programming Contest  | Second place  |
 | 2018.12 | KIISC CISC-W '18                      | Best Paper    |
 | 2019.10 | KIISC-CC CISC 2019                    | Best Paper    |
