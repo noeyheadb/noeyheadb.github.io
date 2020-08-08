@@ -2,32 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961cf7b1-155e-42ca-8507-6f13a08e67ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/noeyheadb.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/design.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font/JosefinSans-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font/Quicksand-Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/award.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/coding.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/crypto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/github-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/linux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/locate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/os.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/python.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/school.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/moveTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SUPPORT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../moveTo-master/moveTo-master" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -100,7 +81,8 @@
       <workItem from="1573700243568" duration="1822000" />
       <workItem from="1575219787667" duration="508000" />
       <workItem from="1596796444863" duration="2718000" />
-      <workItem from="1596867452846" duration="426000" />
+      <workItem from="1596867452846" duration="715000" />
+      <workItem from="1596868192052" duration="591000" />
     </task>
     <servers />
   </component>
@@ -120,6 +102,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2610" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596868250268">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2610" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596868250268" />
     <state x="700" y="226" key="RollbackChangesDialog" timestamp="1596797754121">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
