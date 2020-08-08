@@ -4,6 +4,10 @@ layout: default
 
 [View in korean](./kor.html).
 
+# Who is Daehyeon Bae?
+
+> 배대현
+
 Daehyeon Bae is an undergraduate student studying information security. He is currently studying in the [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
 
 Keywords of interest : **Cryptography**, **Side-chennal attack**, **Programming language**, **Machine Learning**, **Open source projects**, **Linux**
