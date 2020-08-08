@@ -13,6 +13,7 @@ layout: default
 ### Bachelor's degree
 
 > I am currently taking the last semester.  
+
 * (Scheduled) Bachelor in Science In Information Security Engineering  
 * Hoseo University (2017.03 ~ 2021.02)  
   
@@ -20,7 +21,8 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 ### Master's degree
 
-> I am currently taking B.S & M.S combined course.
+> I am currently taking B.S & M.S combined course.  
+
 * B.S & M.S combined course
 * Hoseo University (2020.03 ~ 2022.02)
 
@@ -30,7 +32,8 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 ### Conference
 
-#### [KIISC](https://kiisc.or.kr/) Conference on Information Security and Cryptography (CISC)
+##### [KIISC](https://kiisc.or.kr/) Conference on Information Security and Cryptography (CISC)
+
 | Year         | head two                                                                    | Remark |
 |:-------------|:----------------------------------------------------------------------------|:------|
 | 2018.12      | 부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용 | second author |
@@ -40,8 +43,10 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 | 2019.12      | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축                           | lead author  |
 | 2020.06      | 마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현                       | lead author  |
 
+
 ### Paper
-#### (KCI) Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
+
+##### Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
 
 | Year         | head two                                                                    | Remark |
 |:-------------|:----------------------------------------------------------------------------|:------|
@@ -50,7 +55,6 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 | 2020.08      | 마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현                       | lead author  |
 
 
----
 ## Awards
 
 | Year    | Name                                                                |
