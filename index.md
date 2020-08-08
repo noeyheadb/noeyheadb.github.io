@@ -18,7 +18,7 @@ Contact :  noeyheadb@gmail.com
 
 > I am currently taking the last semester.  
 
-* (Scheduled) Bachelor in Science In Information Security Engineering  
+* (Scheduled) Bachelor of Science In Information Security Engineering  
 * Hoseo University (2017.03 ~ 2021.02)  
   
 GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
@@ -74,7 +74,7 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 | Date    | Certificate Name                                                             | Detail                | Inst.                           |
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
-| 2017.09 | Linux Master                                                                 | Grade 2               | [KAIT](https://www.kait.or.kr)  |
+| 2017.09 | [Linux Master](https://www.ihd.or.kr/introducesubject1.do)                   | Grade 2               | [KAIT](https://www.kait.or.kr)  |
 | 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3               | [IITP](https://www.iitp.kr)     |
 | 2020.06 | _(Pass the written test)_ [Engineer information security](https://kisq.or.kr/) | Pass the written test | [KISA](https://www.kisa.or.kr)  |
 
@@ -86,7 +86,7 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
     * Python
         * The most frequently used language
         * Machine learning (Tensorflow, Keras, ...)
-        * Data analysis/visualization (Matplotlib, Numpy, Pandas, ...)
+        * Data analysis/visualization (Matplotlib, Numpy, ...)
         * General purpose script
     * Java
         * GUI Programming (JavaFX)
