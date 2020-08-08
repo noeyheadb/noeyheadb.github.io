@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Welcome to another page
-
-_yay_
+## 준비중..
 
 [back](./)

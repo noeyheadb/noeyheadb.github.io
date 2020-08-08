@@ -57,7 +57,7 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 |:--------|:----------------------------------------------------------------------------|:------|
 | 2019.10 | [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
 | 2020.02 | [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN | lead author  |
+| 2020.08 | [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.1) | lead author  |
 
 ## Awards
 
@@ -77,6 +77,8 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 | 2017.09 | Linux Master                                                                 | Grade 2               | [KAIT](https://www.kait.or.kr)  |
 | 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3               | [IITP](https://www.iitp.kr)     |
 | 2020.06 | _(Pass the written test)_ [Engineer information security](https://kisq.or.kr/) | Pass the written test | [KISA](https://www.kisa.or.kr)  |
+
+* * *
 
 # What can I do?
 
@@ -112,23 +114,15 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
         * PyCharm, IntelliJ, CLion
 
 > In addition to the above, I have knowledge of network, computer structure, operating system, etc.
->
+
 * * *
 
 # Projects
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Implementation of Side-channel based disassembler using Deep Learning model
+    * This project started with the undergraduate graduation project from March/2020.
+    * Source Code will be released to Github soon. [(repository link)](https://github.com/noeyheadb/scb-disas)
+    * More information : [this paper](https://doi.org/10.13089/JKIISC.2020.30.4.1)
+    
+![scb-disas](./assets/img/scb-dias-structure.jpg)
 
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
