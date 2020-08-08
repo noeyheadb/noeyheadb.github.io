@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="961cf7b1-155e-42ca-8507-6f13a08e67ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/noeyheadb.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/design.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font/JosefinSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font/Quicksand-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/award.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/coding.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/crypto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/github-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/locate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/os.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/school.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/moveTo.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PJT6kagxpDeU7XOoPZIYquU4Ut" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../moveTo-master/moveTo-master" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\511-4\Desktop\PROJECT DIR\noeyheadb.github.io\css" />
+      <recent name="C:\Users\511-4\Desktop\PROJECT DIR\noeyheadb.github.io\css\font" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="961cf7b1-155e-42ca-8507-6f13a08e67ef" name="Default Changelist" comment="" />
+      <created>1561977162503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561977162503</updated>
+      <workItem from="1561977165238" duration="835000" />
+      <workItem from="1562483554349" duration="1217000" />
+      <workItem from="1563079359533" duration="4681000" />
+      <workItem from="1563084091745" duration="19493000" />
+      <workItem from="1563109002385" duration="759000" />
+      <workItem from="1563114709960" duration="2963000" />
+      <workItem from="1563174682686" duration="1477000" />
+      <workItem from="1565591035635" duration="282000" />
+      <workItem from="1568168745849" duration="1599000" />
+      <workItem from="1568189061862" duration="1263000" />
+      <workItem from="1571300855839" duration="731000" />
+      <workItem from="1571650929475" duration="34000" />
+      <workItem from="1573045929872" duration="437000" />
+      <workItem from="1573193054843" duration="589000" />
+      <workItem from="1573700243568" duration="1822000" />
+      <workItem from="1575219787667" duration="508000" />
+      <workItem from="1596796444863" duration="2718000" />
+      <workItem from="1596867452846" duration="426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="700" y="226" key="RollbackChangesDialog" timestamp="1596797754121">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="700" y="226" key="RollbackChangesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1596797754121" />
+  </component>
+</project>
