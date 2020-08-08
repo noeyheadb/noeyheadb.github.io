@@ -4,7 +4,11 @@ layout: default
 
 [View in korean](./kor.html).
 
-Introduce
+Daehyeon Bae is an undergraduate student studying information security. He is currently studying in the [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
+
+Keywords of interest : **Cryptography**, **Side-chennal attack**, **Programming language**, **Machine Learning**, **Open source projects**, **Linux**
+
+Contact :  noeyheadb@gmail.com
 
 ---
 
@@ -55,10 +59,9 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 | 2020.02 | [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
 | 2020.08 | Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN | lead author  |
 
-
 ## Awards
 
-| Date    | Contest Name                          | Award         | Institution|
+| Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ.|
 | 2018.12 | KIISC CISC-W '18                      | Best Paper    | KIISC      |
@@ -67,61 +70,28 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 | 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
 | 2020.07 | KIISC CISC-S '20                      | Best Paper    | KIISC      |
 
-## Skills
+## Certificate
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+| Date    | Certificate Name                                                             | Detail                | Inst.                           |
+|:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
+| 2017.09 | Linux Master                                                                 | Grade 2               | [KAIT](https://www.kait.or.kr)  |
+| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3               | [IITP](https://www.iitp.kr)     |
+| 2020.06 | _(Pass the written test)_ [Engineer information security](https://kisq.or.kr/) | Pass the written test | [KISA](https://www.kisa.or.kr)  |
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
+# What can I do?
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Python
 
-### And an ordered list:
+* Java
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* 
+
+* * *
+
+
 
 ### And a nested list:
 
@@ -141,6 +111,13 @@ end
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
 ### Small image
 
