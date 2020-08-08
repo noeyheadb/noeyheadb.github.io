@@ -78,36 +78,44 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 | 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3               | [IITP](https://www.iitp.kr)     |
 | 2020.06 | _(Pass the written test)_ [Engineer information security](https://kisq.or.kr/) | Pass the written test | [KISA](https://www.kisa.or.kr)  |
 
-
 # What can I do?
 
-* Python
+* Programming Language
+    * Python
+        * The most frequently used language
+        * Machine learning (Tensorflow, Keras, ...)
+        * Data analysis/visualization (Matplotlib, Numpy, Pandas, ...)
+        * General purpose script
+    * Java
+        * GUI Programming (JavaFX)
+        * Web Server (Servlet)
+        * General purpose program
+    * C/C++
+        * Implementation of cryptographic algorithm
+        * Embedded programming
+* Knowledge
+    * Cryptography & Cryptanalysis
+        * Cryptography
+        * Side-channel attack
+            * Power consumption analysis
+            * cache side-channel attack
+    * Linux
+        * The overall understanding of Linux architecture
+        * Familiar with Linux development environment
+        * Specially familiar with Ubuntu
+    * Web vulnerability analysis
+* Tools
+    * Git/Github
+        * `git` CLI
+        * Overall github's contribution process (ex. PR)
+    * Jetbrains IDEs
+        * PyCharm, IntelliJ, CLion
 
-* Java
-
-* 
-
+> In addition to the above, I have knowledge of network, computer structure, operating system, etc.
+>
 * * *
 
-
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Projects
 
 ```js
 // Javascript code with syntax highlighting.
