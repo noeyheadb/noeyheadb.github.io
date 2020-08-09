@@ -6,7 +6,7 @@ layout: default
 
 # Who is Daehyeon Bae?
 
-Daehyeon Bae(배대현) is an undergraduate student studying information security. He is currently studying in the [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
+Daehyeon Bae(배대현) is an undergraduate student studying information security. He is currently studying in [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
 
 Keywords of interest : **Cryptography**, **Side-chennal attack**, **Programming language**, **Machine Learning**, **Open source projects**, **Linux**
 
@@ -78,41 +78,41 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [Linux Master](https://www.ihd.or.kr/introducesubject1.do)                   | Grade 2               | [KAIT](https://www.kait.or.kr)  |
 | 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3               | [IITP](https://www.iitp.kr)     |
-| 2020.06 | _(Pass the written test)_ [Engineer information security](https://kisq.or.kr/) | Pass the written test | [KISA](https://www.kisa.or.kr)  |
+| 2020.00 | _(Pass the written test)_ [~~Engineer information security~~](https://kisq.or.kr/) | Pass the written test | [KISA](https://www.kisa.or.kr)  |
 
 * * *
 
 # What can I do?
 
 * Programming Language
-    * Python
+    * **Python**
         * The most frequently used language
-        * Machine learning (Tensorflow, Keras, ...)
-        * Data analysis/visualization (Matplotlib, Numpy, ...)
+        * Machine learning
+        * Data analysis/visualization
         * General purpose script
-    * Java
+    * **Java**
         * GUI Programming (JavaFX)
         * Web Server (Servlet)
         * General purpose program
-    * C/C++
+    * **C/C++**
         * Implementation of cryptographic algorithm
         * Embedded programming
 * Knowledge
-    * Cryptography & Cryptanalysis
+    * **Cryptography & Cryptanalysis**
         * Cryptography
         * Side-channel attack
             * Power consumption analysis
             * cache side-channel attack
-    * Linux
+    * **Linux**
         * The overall understanding of Linux architecture
         * Familiar with Linux development environment
         * Specially familiar with Ubuntu
-    * Web vulnerability analysis
+    * **Web vulnerability analysis**
 * Tools
-    * Git/Github
+    * **Git/Github**
         * `git` CLI
         * Overall github's contribution process (ex. PR)
-    * Jetbrains IDEs
+    * **Jetbrains IDEs**
         * PyCharm, IntelliJ, CLion
 
 > In addition to the above, I have knowledge of network, computer structure, operating system, etc.
