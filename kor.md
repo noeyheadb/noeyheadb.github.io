@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[View in English](./kor.html).
+[View in English](./).
 
 # Who is Daehyeon Bae?
 
@@ -65,20 +65,20 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
-| 2018.12 | 호서대학교 프로그래밍 경진대회           | Second place  | 호서대       |
-| 2018.12 | 한국정보보호학회 동계학술대회 2018       | Best Paper    | 한국정보보호학회|
-| 2019.10 | 한국정보보호학회 충청지부 학술대회 2019   | Best Paper    | 한국정보보호학회|
-| 2019.10 | 2019년도 부채널 분석 경진대회            | First place   | [한국전자통신연구원](https://www.etri.re.kr)|
-| 2019.12 | 호서대학교 프로그래밍 경진대회            | First place   | 호서대|
-| 2020.07 | 한국정보보호학회 하계학술대회 2020        | Best Paper    | 한국정보보호학회|
+| 2018.12 | 호서대학교 프로그래밍 경진대회           | 2위            | 호서대    |
+| 2018.12 | 한국정보보호학회 동계학술대회 2018       | 최우수논문상     | 한국정보보호학회|
+| 2019.10 | 한국정보보호학회 충청지부 학술대회 2019   | 장려상          | 한국정보보호학회|
+| 2019.10 | 2019년도 부채널 분석 경진대회            | 고등/학부 1위   | [한국전자통신연구원](https://www.etri.re.kr)|
+| 2019.12 | 호서대학교 프로그래밍 경진대회            | 1위            | 호서대|
+| 2020.07 | 한국정보보호학회 하계학술대회 2020        | 최우수논문상    | 한국정보보호학회|
 
 ## Certificate
 
 | Date    | Certificate Name                                                             | Detail                | Inst.                           |
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
-| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3               | [IITP](https://www.iitp.kr)     |
-| 2020.00 | _(필기 합격)_ [~~정보보안기사~~](https://kisq.or.kr/) | 필기 합격 | [KISA](https://www.kisa.or.kr)  |
+| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3               | [IITP](https://www.iitp.kr)     |
+| 2020.00 | (필기합격) [~~정보보안기사~~](https://kisq.or.kr/) | 필기합격 | [KISA](https://www.kisa.or.kr)  |
 
 * * *
 
