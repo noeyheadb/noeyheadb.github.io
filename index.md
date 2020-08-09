@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[View in korean](./kor.html).
+[View in Korean (partial)](./kor.html).
 
 # Who is Daehyeon Bae?
 
