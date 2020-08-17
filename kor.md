@@ -22,8 +22,7 @@ Contact :  noeyheadb@gmail.com
 
 * (Scheduled) Bachelor of Science In Information Security Engineering  
 * Hoseo University (2017.03 ~ 2021.02)  
-  
-GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
+* GPA: 4.35/4.5, Major GPA: 4.46/4.5 
 
 ### Master's degree
 
@@ -78,7 +77,7 @@ GPA: 4.35/4.5, Major GPA: 4.46/4.5 (~2020/07, 7 semesters)
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
 | 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3               | [IITP](https://www.iitp.kr)     |
-| 2020.00 | (필기합격) [~~정보보안기사~~](https://kisq.or.kr/) | 필기합격 | [KISA](https://www.kisa.or.kr)  |
+| 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/) | 필기합격 | [KISA](https://www.kisa.or.kr)  |
 
 * * *
 
