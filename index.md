@@ -8,7 +8,7 @@ layout: default
 
 Daehyeon Bae(배대현) is an undergraduate student studying information security. He is currently studying in [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
 
-Keywords of interest : **Cryptography**, **Side-chennal attack**, **Programming language**, **Machine Learning**, **Open source projects**, **Linux**
+Keywords of interest : **Cryptography**, **Cryptanalysis**, **Side-chennal attack**, **Programming language**, **Machine learning**, **Open source projects**, **Linux**
 
 Contact :  noeyheadb@gmail.com
 
@@ -21,7 +21,7 @@ Contact :  noeyheadb@gmail.com
 > I am currently taking the last semester.  
 
 * (Scheduled) Bachelor of Science In Information Security Engineering  
-* Hoseo University (2017.03 ~ 2021.02)  
+* Division of Computer and Information Engineering, Hoseo University (2017.03 ~ 2021.02)  
 * GPA: 4.35/4.5, Major GPA: 4.46/4.5
 
 ### Master's degree
@@ -56,20 +56,20 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2019.10 | [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
-| 2020.02 | [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.1) | lead author  |
+| 2019.10 | **[KCI]** [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
+| 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
+| 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.1) | lead author  |
 
 ## Awards
 
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ.|
-| 2018.12 | KIISC CISC-W '18                      | Best Paper    | KIISC      |
-| 2019.10 | KIISC-CC CISC 2019                    | Best Paper    | KIISC      |
+| 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
+| 2019.10 | KIISC-CC CISC 2019                    | Best paper    | KIISC      |
 | 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr)|
 | 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
-| 2020.07 | KIISC CISC-S '20                      | Best Paper    | KIISC      |
+| 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
 
 ## Certificate
 
@@ -90,15 +90,15 @@ Contact :  noeyheadb@gmail.com
         * Data analysis/visualization
         * General purpose script
     * **Java**
-        * GUI Programming (JavaFX)
-        * Web Server (Servlet)
+        * GUI programming (JavaFX)
+        * Web server (Servlet)
         * General purpose program
     * **C/C++**
         * Implementation of cryptographic algorithm
         * Embedded programming
 * Knowledge
     * **Cryptography & Cryptanalysis**
-        * Cryptography
+        * Cryptographic algorithm
         * Side-channel attack
             * Power consumption analysis
             * cache side-channel attack

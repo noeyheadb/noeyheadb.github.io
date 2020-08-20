@@ -8,7 +8,7 @@ layout: default
 
 Daehyeon Bae(배대현) is an undergraduate student studying information security. He is currently studying in [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
 
-Keywords of interest : **Cryptography**, **Side-chennal attack**, **Programming language**, **Machine Learning**, **Open source projects**, **Linux**
+Keywords of interest : **Cryptography**, **Cryptanalysis**, **Side-chennal attack**, **Programming language**, **Machine learning**, **Open source projects**, **Linux**
 
 Contact :  noeyheadb@gmail.com
 
@@ -21,7 +21,7 @@ Contact :  noeyheadb@gmail.com
 > I am currently taking the last semester.  
 
 * (Scheduled) Bachelor of Science In Information Security Engineering  
-* Hoseo University (2017.03 ~ 2021.02)  
+* Division of Computer and Information Engineering, Hoseo University (2017.03 ~ 2021.02)  
 * GPA: 4.35/4.5, Major GPA: 4.46/4.5 
 
 ### Master's degree
@@ -56,9 +56,9 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2019.10 | [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
-| 2020.02 | [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.1) | lead author  |
+| 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
+| 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
+| 2020.08 | **[KCI]** [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.1) | lead author  |
 
 ## Awards
 
@@ -90,15 +90,15 @@ Contact :  noeyheadb@gmail.com
         * Data analysis/visualization
         * General purpose script
     * **Java**
-        * GUI Programming (JavaFX)
-        * Web Server (Servlet)
+        * GUI programming (JavaFX)
+        * Web server (Servlet)
         * General purpose program
     * **C/C++**
         * Implementation of cryptographic algorithm
         * Embedded programming
 * Knowledge
     * **Cryptography & Cryptanalysis**
-        * Cryptography
+        * Cryptographic algorithm
         * Side-channel attack
             * Power consumption analysis
             * cache side-channel attack
