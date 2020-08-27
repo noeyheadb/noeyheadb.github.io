@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[View in English](./).
+[[View in English]](./)
 
 # Who is Daehyeon Bae?
 
-Daehyeon Bae(배대현) is an undergraduate student studying information security. He is currently studying in [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
+Daehyeon Bae is an undergraduate student studying information security. He is currently studying in [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
 
 Keywords of interest : **Cryptography**, **Cryptanalysis**, **Side-chennal attack**, **Programming language**, **Machine learning**, **Open source projects**, **Linux**
 
@@ -76,8 +76,8 @@ Contact :  noeyheadb@gmail.com
 | Date    | Certificate Name                                                             | Detail                | Inst.                           |
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
-| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3               | [IITP](https://www.iitp.kr)     |
-| 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/) | 필기합격 | [KISA](https://www.kisa.or.kr)  |
+| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (562점)    | [IITP](https://www.iitp.kr)     |
+| 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/)                                        | 필기합격          | [KISA](https://www.kisa.or.kr)  |
 
 * * *
 
