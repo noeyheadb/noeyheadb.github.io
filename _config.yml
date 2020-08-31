@@ -2,5 +2,8 @@ title: Daehyeon Bae
 logo: /assets/img/profile.jpg
 description: 배대현 (호서대학교)
 show_downloads: false
-google_analytics:
+google_analyt
 theme: jekyll-theme-minimal
+url: https://noeyheadb.github.io
+plugins:
+  - jekyll-sitemap

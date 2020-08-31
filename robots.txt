@@ -1,0 +1,3 @@
+Uset-agent: *
+Allow: /
+Sitemap: https://noeyheadb.github.io
