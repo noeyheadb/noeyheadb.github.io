@@ -58,7 +58,7 @@ Contact :  noeyheadb@gmail.com
 |:--------|:----------------------------------------------------------------------------|:------|
 | 2019.10 | **[KCI]** [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
 | 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.1) | lead author  |
+| 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.527) | lead author  |
 
 ## Awards
 
@@ -123,7 +123,7 @@ Contact :  noeyheadb@gmail.com
 * Implementation of Side-channel based disassembler using Deep Learning model
     * This project started with the undergraduate graduation project from March/2020.
     * Source Code will be released to Github soon. [(repository link)](https://github.com/noeyheadb/scb-disas)
-    * More information : [this paper](https://doi.org/10.13089/JKIISC.2020.30.4.1)
+    * More information : [this paper](https://doi.org/10.13089/JKIISC.2020.30.4.527)
     
 ![scb-disas](./assets/img/scb-dias-structure.jpg)
 
