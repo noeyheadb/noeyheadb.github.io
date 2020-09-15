@@ -14,7 +14,7 @@ Contact :  noeyheadb@gmail.com
 
 ---
 
-# Academic background
+# Education
 
 ### Bachelor's degree
 
