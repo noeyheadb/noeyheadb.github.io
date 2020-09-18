@@ -6,7 +6,7 @@ layout: default
 
 # Who is Daehyeon Bae?
 
-Daehyeon Bae is an undergraduate student studying information security. He is currently studying in [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) at [Hoseo University](https://www.hoseo.ac.kr/).
+Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
 Keywords of interest : **Cryptography**, **Cryptanalysis**, **Side-chennal attack**, **Programming language**, **Machine learning**, **Open source projects**, **Linux**
 
@@ -25,8 +25,6 @@ Contact :  noeyheadb@gmail.com
 * GPA: 4.35/4.5, Major GPA: 4.46/4.5
 
 ### Master's degree
-
-> I am currently taking B.S & M.S combined course.  
 
 * B.S & M.S combined course
 * Hoseo University (2020.03 ~ 2022.02)
