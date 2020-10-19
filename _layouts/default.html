@@ -27,6 +27,14 @@
     <meta name="theme-color" content="#ffffff">
   <!--    favicon    -->
 
+  <!--    redirect to https://noeyhead.github.io   -->
+    <script>
+      console.log(window.location)
+        if (window.location.host != 'noeyheadb.github.io') {
+          window.location.href='https://noeyheadb.github.io';
+        }
+    </script>
+
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
