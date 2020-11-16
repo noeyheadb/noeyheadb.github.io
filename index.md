@@ -70,21 +70,21 @@ Contact :  noeyheadb@gmail.com
 
 ## Awards
 
-#### Hoseo university  
+#### Hoseo university
 
 | Date    | Contest Name                          | Award         | Inst.      |
-|:--------|:--------------------------------------|:--------------|:-----------|
-| 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ.|
-| 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
+|:--------|:--------------------------------------|:--------------|:------------|
+| 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ. |
+| 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ. |
 | 2020.10 | Hoseo University AI·SW Graduation Project Contest | Third place  | Hoseo univ. |
 
-#### Academic conference and competition  
+#### Academic conference and competition
 
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
 | 2019.10 | KIISC-CC CISC 2019                    | Best paper    | KIISC      |
-| 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr)|
+| 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr) |
 | 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
 | 2020.10 | 2020 Side-channel Analysis Contest    | Third place   | KIISC      |
 | 2020.11 | KIISC CISC-W '20                      | Best paper    | The society of side-channel analysis |
