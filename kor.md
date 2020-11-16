@@ -4,7 +4,7 @@ layout: default
 
 [[View in English]](./)
 
-# Who is Daehyeon Bae?
+# Bio
 
 Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
@@ -39,14 +39,22 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2018.12 | *_**부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용**_ | second author |
-| 2019.06 | 전력 분석 공격을 위한 AutoEncoder 기반의 효율적인 POI 분석 기법 연구 | lead author   |
-| 2019.06 | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석 | second author |
-| 2019.10 | *_**중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법**_ | lead author  |
-| 2019.12 | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축 | lead author  |
-| 2020.06 | *_**마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현**_ | lead author  |
+| 2018.12 | *_**부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용**_ | Co-author |
+| 2019.06 | 전력 분석 공격을 위한 AutoEncoder 기반의 효율적인 POI 분석 기법 연구 | Lead author   |
+| 2019.06 | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석 | Co-author |
+| 2019.10 | *_**중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법**_ | Lead author  |
+| 2019.12 | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축 | Lead author  |
+| 2020.07 | *_**마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현**_ | Lead author  |
+| 2020.11 | 캐시 부채널 공격에 대응하는 T-Table 셔플링 기반 AES 구현 | Lead author  |
+| 2020.11 | *_**해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격**_ | Lead author  |
 
 ###### *_**Paper**_ : Best paper award
+
+##### ACM International Conference on Intelligent Computing and its Emerging Applications 2020 (ICEA2020)
+
+| Date    | Paper name                                                                    | Remark |
+|:--------|:----------------------------------------------------------------------------|:------|
+| 2020.12 | Breaking a Masked AES Implementation Using a Deep Learning-based Attack | Lead author |
 
 ## Paper
 
@@ -54,20 +62,30 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
-| 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | **[KCI]** [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.527) | lead author  |
+| 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997) | Co-author |
+| 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
+| 2020.08 | **[KCI]** [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
+| 2020.12 | **[KCI]** 블록 암호 ARIA에 대한 Flush+Reload 캐시 부채널 공격 | Lead author  |
+| 2020.12 | **[KCI]** Performance Counter Monitor를 이용한 머신 러닝 기반 캐시 부채널 공격 탐지 | Co-author  |
 
 ## Awards
 
+#### 호서대학교 교내수상
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | 호서대학교 프로그래밍 경진대회           | 2위            | 호서대    |
+| 2019.12 | 호서대학교 프로그래밍 경진대회            | 1위            | 호서대|
+| 2020.10 | 호서대학교 AI·SW 졸업작품 경진대회        | 3위           | 호서대 |
+
+#### 학술대회 및 경진대회
+| Date    | Contest Name                          | Award         | Inst.      |
+|:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | 한국정보보호학회 동계학술대회 2018       | 최우수논문상     | 한국정보보호학회|
 | 2019.10 | 한국정보보호학회 충청지부 학술대회 2019   | 장려상          | 한국정보보호학회|
 | 2019.10 | 2019년도 부채널 분석 경진대회            | 고등/학부 1위   | [한국전자통신연구원](https://www.etri.re.kr)|
-| 2019.12 | 호서대학교 프로그래밍 경진대회            | 1위            | 호서대|
 | 2020.07 | 한국정보보호학회 하계학술대회 2020        | 최우수논문상    | 한국정보보호학회|
+| 2020.10 | 2020년도 부채널 분석 경진대회            | 3위           | 한국정보보호학회|
+| 2020.11 | 한국정보보호학회 동계학술대회 2020        | 우수논문상     | 부채널연구회   |
 
 ## Certificate
 

@@ -4,7 +4,7 @@ layout: default
 
 [[View in Korean (partial)]](./kor.html)
 
-# Who is Daehyeon Bae?
+# Bio
 
 Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
@@ -39,14 +39,22 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2018.12 | *_**Application of Reduced Masking Method to Implement Lightweight Block Cipher CHAM Against Side-Channel Analysis Attack**_ | second author |
-| 2019.06 | Study of efficient POI analysis technique based on AutoEncoder for power analysis attack | lead author   |
-| 2019.06 | Implementation and Analysis of Power Analysis Attack based on MLP Deep-Learning Method | second author |
-| 2019.10 | *_**Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure**_ | lead author  |
-| 2019.12 | Power Trace Dataset Construction for Side Channel Analysis on Block Cipher | lead author  |
-| 2020.06 | *_**Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller**_ | lead author  |
+| 2018.12 | *_**Application of Reduced Masking Method to Implement Lightweight Block Cipher CHAM Against Side-Channel Analysis Attack**_ | Co-author |
+| 2019.06 | Study of efficient POI analysis technique based on AutoEncoder for power analysis attack | Lead author   |
+| 2019.06 | Implementation and Analysis of Power Analysis Attack based on MLP Deep-Learning Method | Co-author |
+| 2019.10 | *_**Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure**_ | Lead author  |
+| 2019.12 | Power Trace Dataset Construction for Side Channel Analysis on Block Cipher | Lead author  |
+| 2020.07 | *_**Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller**_ | Lead author  |
+| 2020.11 | Implementation of AES Resistant to Cache Side-Channel Attack Using T-Table Shuffling Method | Lead author  |
+| 2020.11 | *_**Non-Profiling Deep Learning Side-Channel Attack Using Hamming Weight-based Binary Labeling**_ | Lead author  |
 
 ###### *_**Paper**_ : Best paper award
+
+##### ACM International Conference on Intelligent Computing and its Emerging Applications 2020 (ICEA2020)
+
+| Date    | Paper name                                                              | Remark |
+|:--------|:------------------------------------------------------------------------|:------|
+| 2020.12 | Breaking a Masked AES Implementation Using a Deep Learning-based Attack | Lead author |
 
 ## Paper
 
@@ -54,20 +62,30 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2019.10 | **[KCI]** [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | second author |
-| 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | lead author  |
-| 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.527) | lead author  |
+| 2019.10 | **[KCI]** [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | Co-author |
+| 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
+| 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
+| 2020.12 | **[KCI]** Flush+Reload Cache Side-channel Attack on Block Cipher ARIA | Lead author  |
+| 2020.12 | **[KCI]** Machine Learning-Based Detection of Cache Side Channel AttackUsing Performance Counter Monitor of CPU | Co-author  |
 
 ## Awards
 
+#### Hoseo university 
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ.|
+| 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
+| 2020.10 | Hoseo University AI·SW Graduation Project Contest | Third place  | Hoseo univ.      |
+
+#### Academic conference and competition
+| Date    | Contest Name                          | Award         | Inst.      |
+|:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
 | 2019.10 | KIISC-CC CISC 2019                    | Best paper    | KIISC      |
 | 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr)|
-| 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
 | 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
+| 2020.10 | 2020 Side-channel Analysis Contest    | Third place   | KIISC      |
+| 2020.11 | KIISC CISC-W '20                      | Best paper    | The society of side-channel analysis |
 
 ## Certificate
 
