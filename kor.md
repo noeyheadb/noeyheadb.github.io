@@ -8,7 +8,7 @@ layout: default
 
 Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
-Keywords of interest : **Cryptography**, **Cryptanalysis**, **Side-chennal attack**, **Programming language**, **Machine learning**, **Open source projects**, **Linux**
+Keywords of interest : **Cryptography**, **Side-chennal attack**, **Machine learning**, **Programming language**, **Open source projects**, **Linux**
 
 Contact :  noeyheadb@gmail.com
 
@@ -96,43 +96,6 @@ Contact :  noeyheadb@gmail.com
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
 | 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (562점)    | [IITP](https://www.iitp.kr)     |
 | 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/)                                        | 필기합격          | [KISA](https://www.kisa.or.kr)  |
-
-* * *
-
-# What can I do?
-
-* Programming Language
-    * **Python**
-        * The most frequently used language
-        * Machine learning
-        * Data analysis/visualization
-        * General purpose script
-    * **Java**
-        * GUI programming (JavaFX)
-        * Web server (Servlet)
-        * General purpose program
-    * **C/C++**
-        * Implementation of cryptographic algorithm
-        * Embedded programming
-* Knowledge
-    * **Cryptography & Cryptanalysis**
-        * Cryptographic algorithm
-        * Side-channel attack
-            * Power consumption analysis
-            * cache side-channel attack
-    * **Linux**
-        * The overall understanding of Linux architecture
-        * Familiar with Linux development environment
-        * Specially familiar with Ubuntu
-    * **Web vulnerability analysis**
-* Tools
-    * **Git/Github**
-        * `git` CLI
-        * Overall github's contribution process (ex. PR)
-    * **Jetbrains IDEs**
-        * PyCharm, IntelliJ, CLion
-
-> In addition to the above, I have knowledge of network, computer structure, operating system, etc.
 
 * * *
 
