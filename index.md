@@ -87,7 +87,9 @@ Contact :  noeyheadb@gmail.com
 | 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr) |
 | 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
 | 2020.10 | 2020 Side-channel Analysis Contest    | Third place   | KIISC      |
-| 2020.11 | KIISC CISC-W '20                      | Best paper    | The society of side-channel analysis |
+| 2020.11 | KIISC CISC-W '20                      | Best paper    | *KIISC     |
+
+###### * The society of side-channel analysis
 
 ## Certificate
 
