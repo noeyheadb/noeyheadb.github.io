@@ -70,14 +70,16 @@ Contact :  noeyheadb@gmail.com
 
 ## Awards
 
-#### Hoseo university 
+#### Hoseo university  
+
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ.|
 | 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ.|
-| 2020.10 | Hoseo University AI·SW Graduation Project Contest | Third place  | Hoseo univ.      |
+| 2020.10 | Hoseo University AI·SW Graduation Project Contest | Third place  | Hoseo univ. |
 
-#### Academic conference and competition
+#### Academic conference and competition  
+
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
