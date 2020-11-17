@@ -39,16 +39,16 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2018.12 | *_**부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용**_ | Co-author |
+| 2018.12 | ***부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용** | Co-author |
 | 2019.06 | 전력 분석 공격을 위한 AutoEncoder 기반의 효율적인 POI 분석 기법 연구 | Lead author   |
 | 2019.06 | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석 | Co-author |
-| 2019.10 | *_**중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법**_ | Lead author  |
+| 2019.10 | ***중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법** | Lead author  |
 | 2019.12 | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축 | Lead author  |
-| 2020.07 | *_**마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현**_ | Lead author  |
+| 2020.07 | ***마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현** | Lead author  |
 | 2020.11 | 캐시 부채널 공격에 대응하는 T-Table 셔플링 기반 AES 구현 | Lead author  |
-| 2020.11 | *_**해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격**_ | Lead author  |
+| 2020.11 | ***해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격** | Lead author  |
 
-###### *_**Paper**_ : Best paper award
+###### ***Paper** : Best paper award
 
 ##### ACM International Conference on Intelligent Computing and its Emerging Applications 2020 (ICEA2020)
 

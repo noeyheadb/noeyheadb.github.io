@@ -66,7 +66,7 @@ Contact :  noeyheadb@gmail.com
 | 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
 | 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
 | 2020.12 | **[KCI]** Flush+Reload Cache Side-channel Attack on Block Cipher ARIA | Lead author  |
-| 2020.12 | **[KCI]** Machine Learning-Based Detection of Cache Side Channel AttackUsing Performance Counter Monitor of CPU | Co-author  |
+| 2020.12 | **[KCI]** Machine Learning-Based Detection of Cache Side Channel Attack Using Performance Counter Monitor of CPU | Co-author  |
 
 ## Awards
 
@@ -87,7 +87,7 @@ Contact :  noeyheadb@gmail.com
 | 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr) |
 | 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
 | 2020.10 | 2020 Side-channel Analysis Contest    | Third place   | KIISC      |
-| 2020.11 | KIISC CISC-W '20                      | Best paper    | *KIISC     |
+| 2020.11 | KIISC CISC-W '20                      | Best paper    | KIISC*     |
 
 ###### * The society of side-channel analysis
 
