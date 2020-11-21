@@ -72,7 +72,7 @@ Contact :  noeyheadb@gmail.com
 
 #### Hoseo university
 
-| Date    | Contest Name                          | Award         | Inst.      |
+| Date    | Contest Name                          | Detail        | Inst.      |
 |:--------|:--------------------------------------|:--------------|:------------|
 | 2018.12 | Hoseo University Programming Contest  | 2nd place     | Hoseo univ. |
 | 2019.12 | Hoseo University Programming Contest  | 1st place     | Hoseo univ. |
@@ -80,7 +80,7 @@ Contact :  noeyheadb@gmail.com
 
 #### Academic conference and competition
 
-| Date    | Contest Name                          | Award         | Inst.      |
+| Date    | Contest Name                          | Detail        | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
 | 2019.10 | KIISC-CC CISC 2019                    | Best paper    | KIISC      |
