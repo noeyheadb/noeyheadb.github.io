@@ -31,7 +31,7 @@ Contact :  noeyheadb@gmail.com
 
 * * *
 
-# Activity
+# Academic activity
 
 ## Conference
 
@@ -65,8 +65,8 @@ Contact :  noeyheadb@gmail.com
 | 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997) | Co-author |
 | 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
 | 2020.08 | **[KCI]** [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
-| 2020.12 | **[KCI]** 블록 암호 ARIA에 대한 Flush+Reload 캐시 부채널 공격 | Lead author  |
 | 2020.12 | **[KCI]** Performance Counter Monitor를 이용한 머신 러닝 기반 캐시 부채널 공격 탐지 | Co-author  |
+| 2020.12 | **[KCI]** 블록 암호 ARIA에 대한 Flush+Reload 캐시 부채널 공격 | Lead author  |
 
 ## Awards
 
@@ -99,7 +99,7 @@ Contact :  noeyheadb@gmail.com
 
 * * *
 
-# Projects
+# Personal project
 
 * Implementation of Side-channel based disassembler using Deep Learning model
     * This project started with the undergraduate graduation project from March/2020.

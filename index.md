@@ -31,7 +31,7 @@ Contact :  noeyheadb@gmail.com
 
 * * *
 
-# Activity
+# Academic activity
 
 ## Conference
 
@@ -65,8 +65,8 @@ Contact :  noeyheadb@gmail.com
 | 2019.10 | **[KCI]** [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | Co-author |
 | 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
 | 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
-| 2020.12 | **[KCI]** Flush+Reload Cache Side-channel Attack on Block Cipher ARIA | Lead author  |
 | 2020.12 | **[KCI]** Machine Learning-Based Detection of Cache Side Channel Attack Using Performance Counter Monitor of CPU | Co-author  |
+| 2020.12 | **[KCI]** Flush+Reload Cache Side-channel Attack on Block Cipher ARIA | Lead author  |
 
 ## Awards
 
@@ -74,9 +74,9 @@ Contact :  noeyheadb@gmail.com
 
 | Date    | Contest Name                          | Award         | Inst.      |
 |:--------|:--------------------------------------|:--------------|:------------|
-| 2018.12 | Hoseo University Programming Contest  | Second place  | Hoseo univ. |
-| 2019.12 | Hoseo University Programming Contest  | First place   | Hoseo univ. |
-| 2020.10 | Hoseo University AI·SW Graduation Project Contest | Third place  | Hoseo univ. |
+| 2018.12 | Hoseo University Programming Contest  | 2nd place     | Hoseo univ. |
+| 2019.12 | Hoseo University Programming Contest  | 1st place     | Hoseo univ. |
+| 2020.10 | Hoseo University AI·SW Graduation Project Contest | 3rd place  | Hoseo univ. |
 
 #### Academic conference and competition
 
@@ -84,9 +84,9 @@ Contact :  noeyheadb@gmail.com
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
 | 2019.10 | KIISC-CC CISC 2019                    | Best paper    | KIISC      |
-| 2019.10 | 2019 Side-channel Analysis Contest    | First place   | [ETRI](https://www.etri.re.kr) |
+| 2019.10 | 2019 Side-channel Analysis Contest    | 1st place   | [ETRI](https://www.etri.re.kr) |
 | 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
-| 2020.10 | 2020 Side-channel Analysis Contest    | Third place   | KIISC      |
+| 2020.10 | 2020 Side-channel Analysis Contest    | 3rd place   | KIISC      |
 | 2020.11 | KIISC CISC-W '20                      | Best paper    | KIISC*     |
 
 ###### * The society of side-channel analysis
@@ -101,7 +101,7 @@ Contact :  noeyheadb@gmail.com
 
 * * *
 
-# Projects
+# Personal project
 
 * Implementation of Side-channel based disassembler using Deep Learning model
     * This project started with the undergraduate graduation project from March/2020.
