@@ -45,8 +45,8 @@ Contact :  noeyheadb@gmail.com
 | 2019.10 | ***중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법 (CISC-CC '19 E-02)** | Lead author  |
 | 2019.12 | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축 (CISC-W '19 pp. 263-266) | Lead author  |
 | 2020.07 | ***마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현 (CISC-S '20 pp. 649-653)** | Lead author  |
-| 2020.11 | 캐시 부채널 공격에 대응하는 T-Table 셔플링 기반 AES 구현 | Lead author  |
-| 2020.11 | ***해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격** | Lead author  |
+| 2020.11 | 캐시 부채널 공격에 대응하는 T-Table 셔플링 기반 AES 구현 (CISC-W '20 pp. 579-583) | Lead author  |
+| 2020.11 | ***해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격 (CISC-W '20 pp. 570-574)** | Lead author  |
 
 ###### ***Paper** : Best paper award
 

@@ -45,8 +45,8 @@ Contact :  noeyheadb@gmail.com
 | 2019.10 | ***Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure (CISC-CC '19 E-02)** | Lead author  |
 | 2019.12 | Power Trace Dataset Construction for Side Channel Analysis on Block Cipher (CISC-W '19 pp. 263-266) | Lead author  |
 | 2020.07 | ***Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller (CISC-S '20 pp. 649-653)** | Lead author  |
-| 2020.11 | Implementation of AES Resistant to Cache Side-Channel Attack Using T-Table Shuffling Method | Lead author  |
-| 2020.11 | ***Non-Profiling Deep Learning Side-Channel Attack Using Hamming Weight-based Binary Labeling** | Lead author  |
+| 2020.11 | Implementation of AES Resistant to Cache Side-Channel Attack Using T-Table Shuffling Method (CISC-W '20 pp. 579-583) | Lead author  |
+| 2020.11 | ***Non-Profiling Deep Learning Side-Channel Attack Using Hamming Weight-based Binary Labeling (CISC-W '20 pp. 570-574)** | Lead author  |
 
 ###### ***Paper** : Best paper award
 
