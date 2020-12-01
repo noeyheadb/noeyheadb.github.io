@@ -94,7 +94,7 @@ Contact :  noeyheadb@gmail.com
 | Date    | Certificate Name                                                             | Detail                | Inst.                           |
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
-| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (562점)    | [IITP](https://www.iitp.kr)     |
+| 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (605점)    | [IITP](https://www.iitp.kr)     |
 | 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/)                                        | 필기합격          | [KISA](https://www.kisa.or.kr)  |
 
 * * *

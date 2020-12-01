@@ -96,7 +96,7 @@ Contact :  noeyheadb@gmail.com
 | Date    | Certificate Name                                                             | Detail                | Inst.                           |
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [Linux Master](https://www.ihd.or.kr/introducesubject1.do)                   | Grade 2               | [KAIT](https://www.kait.or.kr)  |
-| 2020.07 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3 (Score: 562)  | [IITP](https://www.iitp.kr)     |
+| 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3 (Score: 605)  | [IITP](https://www.iitp.kr)     |
 | 2020.00 | [~~Engineer information security~~](https://kisq.or.kr/)                     | Pass the written test | [KISA](https://www.kisa.or.kr)  |
 
 * * *
