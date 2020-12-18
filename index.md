@@ -50,11 +50,11 @@ Contact :  noeyheadb@gmail.com
 
 ###### ***Paper** : Best paper award
 
-##### ACM International Conference on Intelligent Computing and its Emerging Applications 2020 (ICEA2020)
+##### 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA2020)
 
 | Date    | Paper name                                                              | Remark |
 |:--------|:------------------------------------------------------------------------|:------|
-| 2020.12 | Breaking a Masked AES Implementation Using a Deep Learning-based Attack | Lead author |
+| 2020.12 | **[ACM]** [Breaking a Masked AES Implementation Using a Deep Learning-based Attack](https://doi.org/10.1145/3440943.3444724) | Lead author |
 
 ## Paper
 
@@ -84,9 +84,9 @@ Contact :  noeyheadb@gmail.com
 |:--------|:--------------------------------------|:--------------|:-----------|
 | 2018.12 | KIISC CISC-W '18                      | Best paper    | KIISC      |
 | 2019.10 | KIISC-CC CISC 2019                    | Best paper    | KIISC      |
-| 2019.10 | 2019 Side-channel Analysis Contest    | 1st place   | [ETRI](https://www.etri.re.kr) |
+| 2019.10 | 2019 Side-channel Analysis Contest    | 1st place     | [ETRI](https://www.etri.re.kr) |
 | 2020.07 | KIISC CISC-S '20                      | Best paper    | KIISC      |
-| 2020.10 | 2020 Side-channel Analysis Contest    | 3rd place   | KIISC      |
+| 2020.10 | 2020 Side-channel Analysis Contest    | 3rd place     | KIISC      |
 | 2020.11 | KIISC CISC-W '20                      | Best paper    | KIISC*     |
 
 ###### * The society of side-channel analysis

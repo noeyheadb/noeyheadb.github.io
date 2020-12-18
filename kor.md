@@ -50,11 +50,11 @@ Contact :  noeyheadb@gmail.com
 
 ###### ***Paper** : Best paper award
 
-##### ACM International Conference on Intelligent Computing and its Emerging Applications 2020 (ICEA2020)
+##### 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA2020)
 
 | Date    | Paper name                                                                    | Remark |
 |:--------|:----------------------------------------------------------------------------|:------|
-| 2020.12 | Breaking a Masked AES Implementation Using a Deep Learning-based Attack | Lead author |
+| 2020.12 | [Breaking a Masked AES Implementation Using a Deep Learning-based Attack](https://doi.org/10.1145/3440943.3444724) | Lead author |
 
 ## Paper
 
