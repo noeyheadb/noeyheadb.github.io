@@ -10,7 +10,9 @@ Daehyeon Bae is an undergraduate student studying information security. He is ta
 
 Keywords of interest : **Cryptography**, **Side-chennal attack**, **Machine learning**, **Programming language**, **Open source projects**, **Linux**
 
-Contact :  noeyheadb@gmail.com
+Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC8AAAAJ)
+
+Contact : noeyheadb@gmail.com
 
 ---
 
@@ -98,14 +100,5 @@ Contact :  noeyheadb@gmail.com
 | 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/)                                        | 필기합격          | [KISA](https://www.kisa.or.kr)  |
 
 * * *
-
-# Personal project
-
-* Implementation of Side-channel based disassembler using Deep Learning model
-    * This project started with the undergraduate graduation project from March/2020.
-    * Source Code will be released to Github soon. [(repository link)](https://github.com/noeyheadb/scb-disas)
-    * More information : [this paper](https://doi.org/10.13089/JKIISC.2020.30.4.527)
-    
-![scb-disas](./assets/img/scb-dias-structure.jpg)
 
 [back](./)
