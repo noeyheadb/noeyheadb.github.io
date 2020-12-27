@@ -101,4 +101,3 @@ Contact : noeyheadb@gmail.com
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3 (Score: 605)  | [IITP](https://www.iitp.kr)     |
 | 2020.00 | [~~Engineer information security~~](https://kisq.or.kr/)                     | Pass the written test | [KISA](https://www.kisa.or.kr)  |
 
-* * *

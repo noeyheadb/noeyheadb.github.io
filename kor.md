@@ -99,6 +99,4 @@ Contact : noeyheadb@gmail.com
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (605점)    | [IITP](https://www.iitp.kr)     |
 | 2020.00 | [~~정보보안기사~~](https://kisq.or.kr/)                                        | 필기합격          | [KISA](https://www.kisa.or.kr)  |
 
-* * *
-
 [back](./)
