@@ -8,7 +8,7 @@ layout: default
 
 Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
-Keywords of interest : **Cryptography**, **Side-chennal attack**, **Machine learning**, **Programming language**, **Open source projects**, **Linux**
+Keywords of interest : **Side-chennal attack**, **Machine learning**, **Cryptography**, **Programming language**, **Open source projects**, **Linux**
 
 Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC8AAAAJ)
 
@@ -67,8 +67,8 @@ Contact : noeyheadb@gmail.com
 | 2019.10 | **[KCI]** [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997) | Co-author |
 | 2020.02 | **[KCI]** [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
 | 2020.08 | **[KCI]** [Implementation of Instruction-Level Disassembler Based on Power Consumption Traces Using CNN](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
-| 2020.12 | **[KCI]** Machine Learning-Based Detection of Cache Side Channel Attack Using Performance Counter Monitor of CPU | Co-author  |
-| 2020.12 | **[KCI]** Flush+Reload Cache Side-channel Attack on Block Cipher ARIA | Lead author  |
+| 2020.12 | **[KCI]** [Machine Learning-Based Detection of Cache Side Channel Attack Using Performance Counter Monitor of CPU](https://doi.org/10.13089/JKIISC.2020.30.6.1237) | Co-author  |
+| 2020.12 | **[KCI]** [Flush+Reload Cache Side-channel Attack on Block Cipher ARIA](https://doi.org/10.13089/JKIISC.2020.30.6.1207) | Lead author  |
 
 ## Awards
 
@@ -99,5 +99,5 @@ Contact : noeyheadb@gmail.com
 |:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
 | 2017.09 | [Linux Master](https://www.ihd.or.kr/introducesubject1.do)                   | Grade 2               | [KAIT](https://www.kait.or.kr)  |
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3 (Score: 605)  | [IITP](https://www.iitp.kr)     |
-| 2020.00 | [~~Engineer information security~~](https://kisq.or.kr/)                     | Pass the written test | [KISA](https://www.kisa.or.kr)  |
+| 2020.12 | [Engineer information security](https://kisq.or.kr/)                         | N/A                   | [KISA](https://www.kisa.or.kr)  |
 
