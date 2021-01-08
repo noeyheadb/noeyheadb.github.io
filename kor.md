@@ -6,9 +6,9 @@ layout: default
 
 # Bio
 
-Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
+[호서대학교](https://www.hoseo.ac.kr)의 [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr)에서 정보보호를 공부하는 학부생입니다.    
 
-Keywords of interest : **Side-chennal attack**, **Machine learning**, **Cryptography**, **Programming language**, **Open source projects**, **Linux**
+관심 키워드 : **부채널공격**, **머신러닝**, **암호학**, **프로그래밍 언어**, **오픈소스 프로젝트**, **리눅스**
 
 Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC8AAAAJ)
 
@@ -16,69 +16,67 @@ Contact : noeyheadb@gmail.com
 
 ---
 
-# Education
+# 학위정보
 
-### Bachelor's degree
+### 학사학위
 
-> I am currently taking the last semester.  
+* (예정) 공학사 (정보보호학 심화)  
+* 호서대학교 컴퓨터정보공학부 (2017.03 ~ 2021.02)  
+* 졸업학점: 4.35/4.5, 전공학점: 4.46/4.5 
 
-* (Scheduled) Bachelor of Science In Information Security Engineering  
-* Division of Computer and Information Engineering, Hoseo University (2017.03 ~ 2021.02)  
-* GPA: 4.35/4.5, Major GPA: 4.46/4.5 
+### 석사학위
 
-### Master's degree
-
-* B.S & M.S combined course
-* Hoseo University (2020.03 ~ 2022.02)
+* 학석사연계과정
+* 호서대학교 정보보호학과 (2020.03 ~ 2022.02)
 
 * * *
 
-# Academic activity
+# 학술활동
 
-## Conference
+## 학술 컨퍼런스
 
 ##### 한국정보보호학회 학술대회 : [KIISC](https://kiisc.or.kr/) Conference on Information Security and Cryptography (CISC)
 
-| Date    | Paper name                                                                    | Remark |
-|:--------|:----------------------------------------------------------------------------|:------|
-| 2018.12 | ***부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용 (CISC-W '18 pp. 371-375)** | Co-author |
-| 2019.06 | 전력 분석 공격을 위한 AutoEncoder 기반의 효율적인 POI 분석 기법 연구 (CISC-S '19 pp. 110-113) | Lead author   |
-| 2019.06 | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석 (CISC-S '19 pp. 75-78) | Co-author |
-| 2019.10 | ***중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법 (CISC-CC '19 E-02)** | Lead author  |
-| 2019.12 | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축 (CISC-W '19 pp. 263-266) | Lead author  |
-| 2020.07 | ***마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현 (CISC-S '20 pp. 649-653)** | Lead author  |
-| 2020.11 | 캐시 부채널 공격에 대응하는 T-Table 셔플링 기반 AES 구현 (CISC-W '20 pp. 579-583) | Lead author  |
-| 2020.11 | ***해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격 (CISC-W '20 pp. 570-574)** | Lead author  |
+| Date    | Paper name                                                                                                | Remark |
+|:--------|:----------------------------------------------------------------------------------------------------------|:------|
+| 2018.12 | ***부채널 분석 공격에 대응하는 초경량 블록 암호 CHAM 구현을 위한 축소 마스킹 기법 적용 (CISC-W '18 pp. 371-375)** | 공저자 |
+| 2019.06 | 전력 분석 공격을 위한 AutoEncoder 기반의 효율적인 POI 분석 기법 연구 (CISC-S '19 pp. 110-113)                   | 주저자   |
+| 2019.06 | MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석 (CISC-S '19 pp. 75-78)                                     | 공저자 |
+| 2019.10 | ***중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법 (CISC-CC '19 E-02)**                      | 주저자  |
+| 2019.12 | 블록 암호에 대한 부채널 분석용 전력 파형 데이터 셋 구축 (CISC-W '19 pp. 263-266)                                | 주저자  |
+| 2020.07 | ***마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현 (CISC-S '20 pp. 649-653)**                       | 주저자  |
+| 2020.11 | 캐시 부채널 공격에 대응하는 T-Table 셔플링 기반 AES 구현 (CISC-W '20 pp. 579-583)                              | 주저자  |
+| 2020.11 | ***해밍웨이트 기반 이진 레이블을 사용한 비프로파일링 딥러닝 부채널 공격 (CISC-W '20 pp. 570-574)**                | 주저자  |
 
-###### ***Paper** : Best paper award
+###### ***논문명** : 우수논문상 수상
 
 ##### 2020 ACM International Conference on Intelligent Computing and its Emerging Applications (ICEA2020)
 
-| Date    | Paper name                                                                    | Remark |
-|:--------|:----------------------------------------------------------------------------|:------|
-| 2020.12 | [Breaking a Masked AES Implementation Using a Deep Learning-based Attack](https://doi.org/10.1145/3440943.3444724) | Lead author |
+| Date    | Paper name                                                                                                         | Remark |
+|:--------|:-------------------------------------------------------------------------------------------------------------------|:------|
+| 2020.12 | [Breaking a Masked AES Implementation Using a Deep Learning-based Attack](https://doi.org/10.1145/3440943.3444724) | 주저자 |
 
-## Paper
+## 논문 (published)
 
 ##### 한국정보보호학회 논문지 : Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
 
-| Date    | Paper name                                                                    | Remark |
-|:--------|:----------------------------------------------------------------------------|:------|
-| 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997) | Co-author |
-| 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39) | Lead author  |
-| 2020.08 | **[KCI]** [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.527) | Lead author  |
-| 2020.12 | **[KCI]** [Performance Counter Monitor를 이용한 머신 러닝 기반 캐시 부채널 공격 탐지](https://doi.org/10.13089/JKIISC.2020.30.6.1237) | Co-author  |
-| 2020.12 | **[KCI]** [블록 암호 ARIA에 대한 Flush+Reload 캐시 부채널 공격](https://doi.org/10.13089/JKIISC.2020.30.6.1207) | Lead author  |
+| Date    | Paper name                                                                                                                       | Remark |
+|:--------|:---------------------------------------------------------------------------------------------------------------------------------|:------|
+| 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997)                        | 공저자 |
+| 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39)           | 주저자  |
+| 2020.08 | **[KCI]** [마이크로 컨트롤러 소비 전력 기반 명령어 수준 역어셈블러 구현](https://doi.org/10.13089/JKIISC.2020.30.4.527)                 | 주저자  |
+| 2020.12 | **[KCI]** [Performance Counter Monitor를 이용한 머신 러닝 기반 캐시 부채널 공격 탐지](https://doi.org/10.13089/JKIISC.2020.30.6.1237) | 공저자  |
+| 2020.12 | **[KCI]** [블록 암호 ARIA에 대한 Flush+Reload 캐시 부채널 공격](https://doi.org/10.13089/JKIISC.2020.30.6.1207)                      | 주저자  |
 
-## Awards
+## 수상내역
 
 #### 호서대학교 교내수상
 
 | Date    | Contest Name                          | Detail        | Inst.      |
 |:--------|:--------------------------------------|:--------------|:-----------|
-| 2018.12 | 호서대학교 프로그래밍 경진대회           | 2위            | 호서대    |
-| 2019.12 | 호서대학교 프로그래밍 경진대회            | 1위            | 호서대 |
-| 2020.10 | 호서대학교 AI·SW 졸업작품 경진대회        | 3위           | 호서대 |
+| 2018.12 | 호서대학교 프로그래밍 경진대회           | 2위            | 호서대     |
+| 2019.12 | 호서대학교 프로그래밍 경진대회           | 1위            | 호서대     |
+| 2020.10 | 호서대학교 AI·SW 졸업작품 경진대회       | 3위            | 호서대     |
 
 #### 학술대회 및 경진대회
 
@@ -91,10 +89,10 @@ Contact : noeyheadb@gmail.com
 | 2020.10 | 2020년도 부채널 분석 경진대회            | 3위           | 한국정보보호학회 |
 | 2020.11 | 한국정보보호학회 동계학술대회 2020        | 우수논문상     | 부채널연구회   |
 
-## Certificate
+## 자격증
 
-| Date    | Certificate Name                                                             | Detail                | Inst.                           |
-|:--------|:-----------------------------------------------------------------------------|:----------------------|:--------------------------------|
+| Date    | Certificate Name                                                             | Detail           | Inst.                           |
+|:--------|:-----------------------------------------------------------------------------|:-----------------|:--------------------------------|
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (605점)    | [IITP](https://www.iitp.kr)     |
 | 2020.12 | [정보보안기사](https://kisq.or.kr/)                                           | N/A               | [KISA](https://www.kisa.or.kr)  |
