@@ -8,7 +8,7 @@ layout: default
 
 Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
-Keywords of interest : **Side-chennal attack**, **Machine learning**, **Cryptography**, **Programming language**, **Open source projects**, **Linux**
+Keywords of interest : **Side-channel attack**, **Machine learning**, **Cryptography**, **Programming language**, **Open source projects**, **Linux**
 
 Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC8AAAAJ)
 
@@ -28,6 +28,7 @@ Contact : noeyheadb@gmail.com
 
 * B.S & M.S combined course
 * Department of Information Security, Hoseo University (2020.03 ~ 2022.02)
+* The academic advisor : prof. Jaecheol Ha
 
 * * *
 
