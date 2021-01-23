@@ -27,7 +27,7 @@ Contact : noeyheadb@gmail.com
 ### Master's degree
 
 * B.S & M.S combined course
-* Department of Information Security, Hoseo University (2020.03 ~ 2022.02)
+* Department of Information Security, Hoseo University (2021.03 ~ 2022.02)
 * The academic advisor : prof. Jaecheol Ha
 
 * * *
