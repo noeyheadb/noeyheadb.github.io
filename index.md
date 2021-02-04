@@ -57,7 +57,7 @@ Contact : noeyheadb@gmail.com
 |:--------|:-------------------------------------------------------------------------------------------------------------------|:------------|
 | 2020.12 | [Breaking a Masked AES Implementation Using a Deep Learning-based Attack](https://doi.org/10.1145/3440943.3444724) | Lead author |
 
-## Paper (published)
+## Publications
 
 ##### Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
 
