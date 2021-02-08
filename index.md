@@ -22,7 +22,8 @@ Contact : noeyheadb@gmail.com
 
 * Bachelor of Science In Information Security Engineering  
 * Division of Computer and Information Engineering, Hoseo University (2017.03 ~ 2021.02)  
-* 👑 **Graduate with honors** (GPA: 4.35/4.5, Major GPA: 4.46/4.5)
+* 👑 **Graduated with honors** (1st prize in division)
+* GPA: 4.35/4.5, Major GPA: 4.46/4.5
 
 ### Master's degree
 
