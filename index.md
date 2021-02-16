@@ -20,15 +20,15 @@ Contact : noeyheadb@gmail.com
 
 ### Bachelor's degree
 
-* Bachelor of Science In Information Security Engineering  
-* Division of Computer and Information Engineering, Hoseo University (2017.03 ~ 2021.02)  
+* Bachelor of Science in Information Security Engineering  
+* Division of Computer and Information Engineering, Hoseo University (Mar. 2017 ~ Feb. 2021)  
 * 👑 **Graduated with honors** (1st prize in division)
 * GPA: 4.35/4.5, Major GPA: 4.46/4.5
 
 ### Master's degree
 
-* B.S & M.S combined course
-* Department of Information Security, Hoseo University (2021.03 ~ 2022.02)
+* B.S & M.S combined course (Mar. 2020 ~ Feb. 2022)
+* Department of Information Security, Hoseo University (Mar. 2021 ~ Feb. 2022)
 * The academic advisor : prof. Jaecheol Ha
 
 * * *
@@ -76,6 +76,7 @@ Contact : noeyheadb@gmail.com
 
 | Date    | Contest Name                                      | Detail        | Inst.       |
 |:--------|:--------------------------------------------------|:--------------|:------------|
+| 2021.02 | President's Award (graduating with honors)        | N/A           | Hoseo univ. |
 | 2020.10 | Hoseo University AI·SW Graduation Project Contest | 3rd place     | Hoseo univ. |
 | 2019.12 | Hoseo University Programming Contest              | 1st place     | Hoseo univ. |
 | 2018.12 | Hoseo University Programming Contest              | 2nd place     | Hoseo univ. |
