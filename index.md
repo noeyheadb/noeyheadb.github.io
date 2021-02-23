@@ -6,7 +6,7 @@ layout: default
 
 # Bio ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnoeyheadb.github.io&count_bg=%23B2A972&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-Daehyeon Bae is an undergraduate student studying information security. He is taking B.S & M.S combined course at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
+Daehyeon Bae is a master's student studying information security at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
 Keywords of interest : **Side-channel attack**, **Machine learning**, **Cryptography**, **Programming language**, **Open source projects**, **Linux**
 

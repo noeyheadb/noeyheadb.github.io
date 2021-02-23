@@ -6,7 +6,7 @@ layout: default
 
 # Bio
 
-[호서대학교](https://www.hoseo.ac.kr)의 [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr)에서 정보보호를 공부하는 학부생입니다.    
+[호서대학교](https://www.hoseo.ac.kr)의 [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr)에서 정보보호를 공부하는 석사과정 대학원생입니다.    
 
 관심 키워드 : **부채널공격**, **머신러닝**, **암호학**, **프로그래밍 언어**, **오픈소스 프로젝트**, **리눅스**
 
