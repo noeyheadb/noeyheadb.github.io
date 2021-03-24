@@ -30,6 +30,11 @@ Contact : noeyheadb@gmail.com
 * 호서대학교 정보보호학과 (2021.03 ~ 2022.02)
 * 지도교수 : 하재철 교수님
 
+### 국가 암호기술 전문인력 양성과정
+
+- 2021.03 ~ 2021.10 (진행중)
+- 주최: [NSR(National Security Research Institute)](https://www.nst.re.kr/nst/about/03_12.jsp), [KCF(Korea Cryptography Forum)](https://kcryptoforum.or.kr/)
+
 * * *
 
 # 학술활동 📚
