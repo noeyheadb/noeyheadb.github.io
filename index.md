@@ -25,11 +25,12 @@ Contact : noeyheadb@gmail.com
 * 👑 **Graduated with honors** (1st prize in division)
 * GPA: 4.35/4.5, Major GPA: 4.46/4.5
 
-### Master's degree
+### Master's degree (expected)
 
-* B.S & M.S combined course (Mar. 2020 ~ Feb. 2022)
-* Department of Information Security, Hoseo University (Mar. 2021 ~ Feb. 2022)
+* B.S & M.S combined course (Mar. 2020 ~ present)
+* Department of Information Security, Hoseo University (Mar. 2021 ~ present)
 * The academic advisor : prof. Jaecheol Ha
+* Expected to graduate in Feb. 2022.
 
 ### National Cryptography Expert Training Program (7th)
 - Mar. 2021 ~ Oct. 2021 (ongoing)
