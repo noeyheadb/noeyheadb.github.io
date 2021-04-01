@@ -33,7 +33,7 @@ Contact : noeyheadb@gmail.com
 
 ### 국가 암호기술 전문인력 양성과정 7기
 
-- 2021.03 ~ 2021.10 (진행중)
+- 2021.04 ~ 2021.10 (진행중)
 - 주최: [NSR(National Security Research Institute)](https://www.nst.re.kr/nst/about/03_12.jsp), [KCF(Korea Cryptography Forum)](https://kcryptoforum.or.kr/)
 
 * * *

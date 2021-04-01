@@ -33,7 +33,7 @@ Contact : noeyheadb@gmail.com
 * Expected to graduate in Feb. 2022.
 
 ### National Cryptography Expert Training Program (7th)
-- Mar. 2021 ~ Oct. 2021 (ongoing)
+- Apr. 2021 ~ Oct. 2021 (ongoing)
 - Hosted by [NSR(National Security Research Institute)](https://www.nst.re.kr/nst/about/03_12.jsp) and [KCF(Korea Cryptography Forum)](https://kcryptoforum.or.kr/)
 
 * * *
