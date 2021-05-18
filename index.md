@@ -15,8 +15,6 @@ Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC
 Contact : noeyheadb@gmail.com
 
 ---
-<details>
-    <summary>Resume</summary>
 
 # Education 🎓
 
@@ -114,5 +112,3 @@ Contact : noeyheadb@gmail.com
 | 2020.12 | [Engineer information security](https://kisq.or.kr/)                         | N/A                   | [KISA](https://www.kisa.or.kr)  |
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3 (Score: 605)  | [IITP](https://www.iitp.kr)     |
 | 2017.09 | [Linux Master](https://www.ihd.or.kr/introducesubject1.do)                   | Grade 2               | [KAIT](https://www.kait.or.kr)  |
-
-</details>

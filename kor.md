@@ -15,8 +15,6 @@ Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC
 Contact : noeyheadb@gmail.com
 
 ---
-<details>
-    <summary>이력서</summary>
 
 # 학위정보 🎓
 
@@ -112,6 +110,5 @@ Contact : noeyheadb@gmail.com
 | 2020.12 | [정보보안기사](https://kisq.or.kr/)                                           | N/A               | [KISA](https://www.kisa.or.kr)  |
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (605점)    | [IITP](https://www.iitp.kr)     |
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
-</details>
 
 [back](./)
