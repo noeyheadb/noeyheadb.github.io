@@ -8,13 +8,15 @@ layout: default
 
 [호서대학교](https://www.hoseo.ac.kr)의 [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr)에서 정보보호를 공부하는 석사과정 대학원생입니다.    
 
-관심 키워드 : **부채널공격**, **머신러닝**, **암호학**, **프로그래밍 언어**, **오픈소스 프로젝트**, **리눅스**
+관심 키워드 : **하드웨어 보안**, **부채널공격**, **머신러닝**, **암호학**
 
 Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC8AAAAJ)
 
 Contact : noeyheadb@gmail.com
 
 ---
+<details>
+    <summary>이력서</summary>
 
 # 학위정보 🎓
 
@@ -75,6 +77,12 @@ Contact : noeyheadb@gmail.com
 | 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39)           | **주저자**  |
 | 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997)                        | 공저자 |
 
+##### Journal of Internet Services and Information Security(JISIS)
+
+| Date    | Paper name                                                                                                                                                     | Remark       |
+|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
+| 2021.05 | [SCOPUS] Performance Metric for Differential Deep Learning Analysis                                          | **주저자**  |
+
 ## 수상내역 🏆
 
 #### 호서대학교 교내수상
@@ -104,5 +112,6 @@ Contact : noeyheadb@gmail.com
 | 2020.12 | [정보보안기사](https://kisq.or.kr/)                                           | N/A               | [KISA](https://www.kisa.or.kr)  |
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | 수준 3 (605점)    | [IITP](https://www.iitp.kr)     |
 | 2017.09 | [리눅스 마스터](https://www.ihd.or.kr/introducesubject1.do)                   | 2급               | [KAIT](https://www.kait.or.kr)  |
+</details>
 
 [back](./)

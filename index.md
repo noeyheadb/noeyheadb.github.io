@@ -8,13 +8,15 @@ layout: default
 
 Daehyeon Bae is a master's student studying information security at [ACT Lab (Advanced Cryptography Technology Laboratory)](https://act.hoseo.ac.kr) in [Hoseo University](https://www.hoseo.ac.kr/).
 
-Keywords of interest : **Side-channel attack**, **Machine learning**, **Cryptography**, **Programming language**, **Open source projects**, **Linux**
+Keywords of interest : **Hardware Security**, **Side-channel attack**, **Machine learning**, **Cryptography**
 
 Google scholar : [here](https://scholar.google.co.kr/citations?hl=ko&user=YbA4VC8AAAAJ)
 
 Contact : noeyheadb@gmail.com
 
 ---
+<details>
+    <summary>Resume</summary>
 
 # Education 🎓
 
@@ -75,6 +77,12 @@ Contact : noeyheadb@gmail.com
 | 2020.02 | [KCI] [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39)                     | Lead author  |
 | 2019.10 | [KCI] [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997)                | Co-author    |
 
+##### Journal of Internet Services and Information Security(JISIS)
+
+| Date    | Paper name                                                                                                                                                     | Remark       |
+|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
+| 2021.05 | [SCOPUS] Performance Metric for Differential Deep Learning Analysis                                         | Lead author  |
+
 ## Awards 🏆
 
 #### Hoseo university
@@ -107,3 +115,4 @@ Contact : noeyheadb@gmail.com
 | 2020.10 | [TOPCIT (Test Of Practical Competency in ICT)](https://www.topcit.or.kr/)    | Level 3 (Score: 605)  | [IITP](https://www.iitp.kr)     |
 | 2017.09 | [Linux Master](https://www.ihd.or.kr/introducesubject1.do)                   | Grade 2               | [KAIT](https://www.kait.or.kr)  |
 
+</details>
