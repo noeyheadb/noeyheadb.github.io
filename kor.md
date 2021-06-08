@@ -65,6 +65,13 @@ Contact : noeyheadb@gmail.com
 
 ## 논문 📃 (published)
 
+##### Journal of Internet Services and Information Security(JISIS)
+
+| Date    | Paper name                                                                                                                                                     | Remark       |
+|:--------|:------------------------------------------------------------------------------------------------------------------------|:-------------|
+| 2021.05 | **[SCOPUS]** [Performance Metric for Differential Deep Learning Analysis](http://dx.doi.org/10.22667/JISIS.2021.05.31.022)  | **주저자**  |
+
+
 ##### 한국정보보호학회 논문지 : Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
 
 | Date    | Paper name                                                                                                                       | Remark |
@@ -75,11 +82,6 @@ Contact : noeyheadb@gmail.com
 | 2020.02 | **[KCI]** [중국 표준 블록 암호 알고리즘 SM4에 대한 전력 분석 공격 및 대응 기법](https://doi.org/10.13089/JKIISC.2020.30.1.39)           | **주저자**  |
 | 2019.10 | **[KCI]** [MLP 딥러닝 기법에 기반한 전력분석 공격 구현 및 분석](https://doi.org/10.13089/JKIISC.2019.29.5.997)                        | 공저자 |
 
-##### Journal of Internet Services and Information Security(JISIS)
-
-| Date    | Paper name                                                                                                                                                     | Remark       |
-|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
-| 2021.05 | [SCOPUS] Performance Metric for Differential Deep Learning Analysis                                          | **주저자**  |
 
 ## 수상내역 🏆
 

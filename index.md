@@ -65,6 +65,12 @@ Contact : noeyheadb@gmail.com
 
 ## Publications 📃
 
+##### Journal of Internet Services and Information Security(JISIS)
+
+| Date    | Paper name                                                                                                             | Remark       |
+|:--------|:-----------------------------------------------------------------------------------------------------------------------|:-------------|
+| 2021.05 | [SCOPUS] [Performance Metric for Differential Deep Learning Analysis](http://dx.doi.org/10.22667/JISIS.2021.05.31.022) | Lead author  |
+
 ##### Journal of The Korea Institute of Information Security and Cryptology (JKIISC)
 
 | Date    | Paper name                                                                                                                                                     | Remark       |
@@ -75,11 +81,6 @@ Contact : noeyheadb@gmail.com
 | 2020.02 | [KCI] [Side Channel Attack on Block Cipher SM4 and Analysis of Masking-Based Countermeasure](https://doi.org/10.13089/JKIISC.2020.30.1.39)                     | Lead author  |
 | 2019.10 | [KCI] [Implementation and Analysis of Power Analysis Attack Using Multi-Layer Perceptron Method](https://doi.org/10.13089/JKIISC.2019.29.5.997)                | Co-author    |
 
-##### Journal of Internet Services and Information Security(JISIS)
-
-| Date    | Paper name                                                                                                                                                     | Remark       |
-|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
-| 2021.05 | [SCOPUS] Performance Metric for Differential Deep Learning Analysis                                         | Lead author  |
 
 ## Awards 🏆
 
