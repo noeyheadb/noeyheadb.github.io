@@ -46,11 +46,13 @@ Contact : noeyheadb@gmail.com
 
 | Date    | Paper name                                                                                                                                          | Remark       |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|
-| 2020.11 | 🏆**Non-Profiling Deep Learning Side-Channel Attack Using Hamming Weight-based Binary Labeling (CISC-W '20 pp. 570-574)**                            | Lead author  |
+| 2021.06 | High-Speed Implementation of Correlation Power Analysis (CPA) Using CUDA-Based Parallel Processing (CISC-S '21 pp. 311-314)                         | Lead author  |
+| 2021.06 | Machine Code-Level Side-Channel Leakage Analysis and Disassembler Implementation (CISC-S '21 pp. 328-332)                                           | Lead author  |
+| 2020.11 | 🏆**Non-Profiling Deep Learning Side-Channel Attack Using Hamming Weight-based Binary Labeling (CISC-W '20 pp. 570-574)**                           | Lead author  |
 | 2020.11 | Implementation of AES Resistant to Cache Side-Channel Attack Using T-Table Shuffling Method (CISC-W '20 pp. 579-583)                                | Lead author  |
-| 2020.07 | 🏆**Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller (CISC-S '20 pp. 649-653)**                    | Lead author  |
+| 2020.07 | 🏆**Implementation of Instruction-Level Disassembler Based on Power Consumption of the Microcontroller (CISC-S '20 pp. 649-653)**                   | Lead author  |
 | 2019.12 | Power Trace Dataset Construction for Side Channel Analysis on Block Cipher (CISC-W '19 pp. 263-266)                                                 | Lead author  |
-| 2019.10 | 🏆**Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure (CISC-CC '19 E-02)**                                   | Lead author  |
+| 2019.10 | 🏆**Power Analysis Attack on China Standard Block Cipher Algorithm SM4 and its Countermeasure (CISC-CC '19 E-02)**                                  | Lead author  |
 | 2019.06 | Implementation and Analysis of Power Analysis Attack based on MLP Deep-Learning Method (CISC-S '19 pp. 75-78)                                       | Co-author    |
 | 2019.06 | Study of efficient POI analysis technique based on AutoEncoder for power analysis attack (CISC-S '19 pp. 110-113)                                   | Lead author  |
 | 2018.12 | 🏆**Application of Reduced Masking Method to Implement Lightweight Block Cipher CHAM Against Side-Channel Analysis Attack (CISC-W '18 pp. 371-375)** | Co-author    |
